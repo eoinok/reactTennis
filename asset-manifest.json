@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactTennis/static/js/main.fa73db05.chunk.js",
+    "main.js.map": "/reactTennis/static/js/main.fa73db05.chunk.js.map",
+    "runtime-main.js": "/reactTennis/static/js/runtime-main.0199ba3f.js",
+    "runtime-main.js.map": "/reactTennis/static/js/runtime-main.0199ba3f.js.map",
+    "static/js/2.3b10f5bc.chunk.js": "/reactTennis/static/js/2.3b10f5bc.chunk.js",
+    "static/js/2.3b10f5bc.chunk.js.map": "/reactTennis/static/js/2.3b10f5bc.chunk.js.map",
+    "index.html": "/reactTennis/index.html",
+    "static/js/2.3b10f5bc.chunk.js.LICENSE.txt": "/reactTennis/static/js/2.3b10f5bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0199ba3f.js",
+    "static/js/2.3b10f5bc.chunk.js",
+    "static/js/main.fa73db05.chunk.js"
+  ]
+}
